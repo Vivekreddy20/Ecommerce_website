@@ -1,8 +1,12 @@
-# React + Vite
+<h1>Ecommerce website</h1>
+<h2>Technologies used</h2>
+<p>React + vite</p>
+<p>Redux</p>
+<h2>Project Features</h2>
+<p><B>Fetch Products Using API:</B> The app fetches product data from an external API, providing a wide range of products for users to explore.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<B>Redux for State Management:</B> Utilizes Redux for efficient state management, ensuring a consistent and scalable data flow within the application.
 
-Currently, two official plugins are available:
+<B>Add and Remove Functionality in Cart:</B> Users can easily add products to their shopping cart and remove them, providing a seamless shopping experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<B>React Class-Based Components:</B> The project uses class-based components in React, showcasing different component lifecycles and state management techniques.</p>
