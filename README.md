@@ -10,3 +10,20 @@
 <B>Add and Remove Functionality in Cart:</B> Users can easily add products to their shopping cart and remove them, providing a seamless shopping experience.
 
 <B>React Class-Based Components:</B> The project uses class-based components in React, showcasing different component lifecycles and state management techniques.</p>
+
+<h2>Getting Started</h2>
+<p>1.fork and clone repositories to your local machine.</p>
+
+```
+git clone https://github.com/Vivekreddy20/Ecommerce_website.git
+```
+<p>2.install dependencies</p>
+
+```
+npm install
+```
+<p>3.Start the development server:</p>
+
+```
+npm run dev
+```
