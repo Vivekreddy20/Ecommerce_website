@@ -11,8 +11,8 @@ const Home = () => {
         <div className="top">
           <div className="left">
             <p className='para'>welcome to</p>
-            <h1>VBIT Canteen</h1>
-            <p>Welcome to vbit canteen, where innovation meets convenience! Discover a curated collection of cutting-edge products and accessories designed to elevate your lifestyle. From sleek gadgets to must-have essentials, our webstore is your go-to destination for the latest trends in technology. Explore, shop, and experience a seamless online shopping journey with us. Welcome to a world of possibilities – welcome to vbit canteen!</p>
+            <h1>Vivek commerce</h1>
+            <p>Welcome to vivek ecommerce, where innovation meets convenience! Discover a curated collection of cutting-edge products and accessories designed to elevate your lifestyle. From sleek gadgets to must-have essentials, our webstore is your go-to destination for the latest trends in technology. Explore, shop, and experience a seamless online shopping journey with us. Welcome to a world of possibilities – welcome to vbit canteen!</p>
             <Link to='/products'>
             <button>see menu</button>
             </Link>
